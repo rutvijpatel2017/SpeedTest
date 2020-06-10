@@ -11,9 +11,6 @@ import android.view.WindowManager
 import android.widget.Button
 import android.widget.Toast
 
-/**
- * Created by imran on 27/Dec/2017.
- */
 object UtilMethods {
 
     private val TAG: String = "---UtilMethods"

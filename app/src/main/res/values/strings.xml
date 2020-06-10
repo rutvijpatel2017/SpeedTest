@@ -16,5 +16,14 @@
 
     <string name="logout_confirm">Confirm?</string>
     <string name="cancel">Cancel</string>
-    
+
+    <string name="check_internet_speed">Check Internet Speed</string>
+
+    <string name="ping">Ping Time ⇌</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+
 </resources>

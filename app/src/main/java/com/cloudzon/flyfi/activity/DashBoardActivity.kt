@@ -24,6 +24,7 @@ import com.chaquo.python.Python
 import com.chaquo.python.android.AndroidPlatform
 import com.cloudzon.flyfi.Constants
 import com.cloudzon.flyfi.R
+import com.cloudzon.flyfi.UtilMethods
 import org.json.JSONObject
 import java.text.DecimalFormat
 
@@ -150,6 +151,8 @@ class DashBoardActivity : AppCompatActivity() {
         btn_stop_fragment.setOnClickListener(clickListener)
 
         netwotk_name = checkNetworkTypeAvailable(activity)
+
+        txt_service_provider_name.setText(netwotk_name + " "+if(netwotk_type == 0) {"(Cellular)"} else {"(WIFI)"})
 
     }
 
@@ -337,6 +340,8 @@ class DashBoardActivity : AppCompatActivity() {
             )
 
         } else {
+
+            UtilMethods.NoInternetConnectionDialog(context)
             saveLastSpeed()
         }
 
