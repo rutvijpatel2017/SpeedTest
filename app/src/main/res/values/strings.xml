@@ -2,76 +2,19 @@
     <string name="app_name">SpeedTest</string>
     <string name="todo">TODO</string>
 
-
-    <string name="get_start">  Get Started</string>
-
-    <!--dialog_close_Account-->
-    <string name="dialog_deactive_account" translatable="false">Deactivate Account!</string>
-    <string name="dialog_deactive_account_confirmation_text" translatable="false">Are you sure you want to account deactivate?</string>
-
     <!--dialog_no_internet-->
     <string name="dialog_oops" translatable="false">Opps!</string>
 
     <string name="dialog_no_internet_check_connection" translatable="false">No internet connection found.\n Check your connection.</string>
     <string name="dialog_no_internet_try_again" translatable="false">Try Again</string>
 
-    <!--dialog_log_out-->
-    <string name="dialog_log_out_text" translatable="false">Logout!</string>
-    <string name="dialog_log_out_confirmation" translatable="false">Are you sure you want to log out?</string>
-
-
     <string name="button_no" translatable="false">No</string>
     <string name="button_yes" translatable="false">Yes</string>
-
-
-    <string name="about_us_title">About Us</string>
-    <string name="country_code">+91</string>
-
-    <string name="dashboard_one">Scan Friend\'s \nAlbum QR</string>
-    <string name="dashboard_second">Create \nAlbum</string>
-    <string name="dashboard_third">Share Own \nAlbum QR</string>
-    <string name="dashboard_fourth">Settings</string>
-    <string name="dashboard_text">Please scan your friends Album.</string>
-    <string name="dashboard_scanned_text">Scanned Products</string>
-    <string name="dashboard_favorite_text">Favorite Products</string>
-
-
-    <string name="no_album">No Album Available</string>
-    <string name="album_text_for_none">You do not have any album.Please create one before you can share with your friends.</string>
-
-
-    <string name="setting_title">Settings</string>
-    <string name="setting_notification">Notification</string>
-    <string name="setting_deactivate">Deactivate Account</string>
-    <string name="privacy_policy">Privacy Policy</string>
-
-    <string name="setting_auto_start">Auto Start Monitoring</string>
-    <string name="setting_auto_start_details">It will automatically start monitoring internet when flying by plane.</string>
-    <string name="setting_payment">Payment</string>
-    <string name="setting_logout">Logout</string>
 
     <string name="coming_soon">Coming Soon.</string>
     <string name="ok">Ok</string>
 
     <string name="logout_confirm">Confirm?</string>
     <string name="cancel">Cancel</string>
-
-    <string name="album_title">Albums</string>
-    <string name="album_text">Your Albums</string>
-    <string name="album_no_data_text">Press + to create new album</string>
-
-
-    <string name="choose_photo">Step 1: Pick Photo</string>
-    <string name="choose_video">Step 2: Pick Video</string>
-    <string name="create">Create</string>
-    <string name="new_album_text">**Please make sure you select photo and video with the same orientation(Landscape or Portrait.)</string>
-
-    <string name="ar_world">AR World</string>
-
-    <string name="look">Look around for these images!</string>
-
-    <!--dialog_image_picker-->
-    <string name="dialog_image_picker_subtitle" translatable="false">SELECT A PROFESSIONAL PROFILE IMAGE</string>
-
-
+    
 </resources>
