@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#008577</color>-->
+<!--    <color name="colorPrimaryDark">#00574B</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="actionbar_title_">#FFFFFF</color>
+    <color name="actionbar_app_name">#555555</color>
+    <color name="actionbar_app_version">#AAA8A8</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="splashscreen_background">#fe504f</color>
+
+    <color name="dashboard_one_c">#FFFFFF</color>
+    <color name="dashboard_two_c">#41D5E1</color>
+    <color name="dashboard_three_c">#4D53E0</color>
+    <color name="dashboard_four_c">#FF8E36</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#FC000000</color>
+
+    <color name="shadow">#dadada</color>
+    <color name="blue">#4040F0</color>
+
+    <color name="round_bg_dialog">#FFFFFF</color>
+    <color name="custom_dialog_text">#000000</color>
+
+
+    <color name="album_item_bg">#FFFFFF</color>
+    <color name="album_item_bg_shadow">#dadada</color>
+    <color name="album_name">#AAA8A8</color>
+    <color name="album_video">#AAA8A8</color>
+
+    <color name="button_text_color">#FC000000</color>
+    <color name="country_text_color">#FC000000</color>
+
+
+    <color name="dashboard_name">#555555</color>
+    <color name="dashboard_phone">#AAA8A8</color>
+
+    <color name="create_album_title">#555555</color>
+
+    <color name="dashboard_status">#FFFFFF</color>
+
+    <color name="setting_tab_title">#555555</color>
+    <color name="setting_tab_icon">#000000</color>
+
+    <color name="close_icon">#555555</color>
+
+    <color name="feedback_bg">#808080</color>
+
+
+</resources>

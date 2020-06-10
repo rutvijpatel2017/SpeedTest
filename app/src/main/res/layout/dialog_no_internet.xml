@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/transparent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/ll_deactivate_acc_tab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/custom_borde_white"
+        android:elevation="10dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="9dp"
+        android:paddingTop="15dp"
+        android:paddingRight="9dp"
+        android:paddingBottom="15dp">
+
+        <ImageView
+            android:id="@+id/iv_no_internet_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:background="@drawable/internet_connection"
+            android:scaleType="fitCenter" />
+
+        <TextView
+            android:id="@+id/txt_no_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/dialog_oops"
+            android:textAllCaps="false"
+            android:fontFamily="@font/helvetica"
+            android:textStyle="bold"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:textColor="@color/custom_dialog_text"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txt_no_messgae"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textStyle="normal"
+            android:gravity="center"
+            android:text="@string/dialog_no_internet_check_connection"
+            android:textAllCaps="false"
+            android:fontFamily="@font/helvetica"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+            android:textColor="@color/custom_dialog_text"/>
+
+        <Button
+            android:id="@+id/btn_try_again"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/red_custom_border"
+            android:textStyle="normal"
+            android:gravity="center"
+            android:text="@string/dialog_no_internet_try_again"
+            android:fontFamily="@font/helvetica"
+            android:textAllCaps="false"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:textColor="@android:color/white" />
+
+    </LinearLayout>
+
+</RelativeLayout>

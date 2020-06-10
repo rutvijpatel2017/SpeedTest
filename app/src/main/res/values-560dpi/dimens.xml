@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="chart_view">250dp</dimen>
+
+    <dimen name="result_box">70dp</dimen>
+
+    <dimen name="aeroplane_box">120dp</dimen>
+
+    <dimen name="start_monitor_title_font_size">16sp</dimen>
+
+    <dimen name="start_monitor_message_font_size">12sp</dimen>
+
+    <dimen name="result_label_font_size">16sp</dimen>
+
+    <dimen name="result_image">15dp</dimen>
+
+    <dimen name="speedMeter_w_h">280dp</dimen>
+
+    <dimen name="speedLimitText_font_size">16dp</dimen>
+
+    <dimen name="speedText_font_size">90dp</dimen>
+
+    <dimen name="unitOfMeasurementText_font_size">18dp</dimen>
+
+    <dimen name="speed_image">25dp</dimen>
+
+<!--    <dimen name="tablayout_text">14sp</dimen>-->
+
+<!--    <item name="text_line_spacing" format="float" type="dimen">1.7</item>-->
+
+<!--    <dimen name="login_button_font_size">18sp</dimen>-->
+
+<!--    <dimen name="home_details_title">20sp</dimen>-->
+
+<!--    <dimen name="recording_text_size_record">22sp</dimen>-->
+
+<!--    <dimen name="recording_icon">70dp</dimen>-->
+
+<!--    <dimen name="recording_logo_margin">60dp</dimen>-->
+
+<!--    <dimen name="records_history_radio_button_text">60dp</dimen>-->
+
+<!--    <dimen name="record_download_status_font">25sp</dimen>-->
+
+<!--    <dimen name="radio_button_font">20sp</dimen>-->
+
+<!--    <dimen name="history_radio_button_font">20sp</dimen>-->
+
+<!--    <dimen name="close_icon">30dp</dimen>-->
+
+<!--    <dimen name="logo_height">50dp</dimen>-->
+<!--    <dimen name="logo_width">280dp</dimen>-->
+
+<!--    <dimen name="recording_screen_record_btn">75dp</dimen>-->
+
+</resources>
