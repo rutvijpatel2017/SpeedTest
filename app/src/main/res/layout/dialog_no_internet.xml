@@ -14,7 +14,7 @@
         android:layout_centerInParent="true"
         android:layout_gravity="center"
         android:layout_margin="20dp"
-        android:background="@drawable/custom_borde_white"
+        android:background="@drawable/custom_border_white"
         android:elevation="10dp"
         android:gravity="center"
         android:orientation="vertical"
